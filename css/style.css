@@ -1,0 +1,36 @@
+body{
+    margin: 0 auto;
+    padding:0;
+    width:400px;
+}
+
+.simbox{
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    font-size:50px;
+    color:#fff;
+    margin:35px 0px; 
+}
+
+.simbox:nth-child(1){
+    background-color: #222;
+}
+.simbox:nth-child(2){
+    background-color: #ccc;
+}
+.simbox:nth-child(3){
+    background-color: #3498db;
+}
+.simbox:nth-child(4){
+    background-color: red;
+}
+.simbox:nth-child(5){
+    background-color: orange;
+}
+.simbox:nth-child(6){
+    background-color: yellow;
+}
+.simbox:nth-child(7){
+    background-color: black;
+}
